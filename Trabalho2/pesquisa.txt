@@ -1,0 +1,84 @@
+Pesquisa de Título feita por Elements
+ - Livro titulo Design Patterns: Elements of Reusable Object-Oriented Software, autor Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm, e seu preco é 37.88
+ 
+ 
+Pesquisa de Autor feita por Greg
+ - Livro titulo Operating System Concepts, autor Abraham Silberschatz, Greg Gagne, Peter Baer Galvin, e seu preco é 118.79
+ - Livro titulo Operating Systems Concepts with Java, autor Abraham Silberschatz, Greg Gagne, Peter Baer Galvin, e seu preco é 160.32
+ 
+ 
+Pesquisa de Autor feita por Peter
+ - Livro titulo Operating System Concepts, autor Abraham Silberschatz, Greg Gagne, Peter Baer Galvin, e seu preco é R$118.79
+ - Livro titulo Operating Systems Concepts with Java, autor Abraham Silberschatz, Greg Gagne, Peter Baer Galvin, e seu preco é R$160.32
+ 
+ 
+Pesquisa de Título feita por Java
+ - Livro titulo Head First Java, 2nd Edition, autor Kathy Sierra, Bert Bates, e seu preco é R$24.83
+ - Livro titulo Java Illuminated: An Active Learning Approach, autor Julie Anderson, Herve Franceschi, e seu preco é R$152.36
+ - Livro titulo Java: How to Program, autor Paul Deitel and Harvey Deitel, e seu preco é R$70.34
+ - Livro titulo Operating Systems Concepts with Java, autor Abraham Silberschatz, Greg Gagne, Peter Baer Galvin, e seu preco é R$160.32
+ 
+ 
+Pesquisa de Título feita por Modern
+ - Livro titulo Modern Operating Systems, autor Andrew S. Tanenbaum, Herbert Bos, e seu preço é R$161.22
+ 
+ 
+Pesquisa de Título feita por Modern
+ - Livro titulo Modern Operating Systems, autor Andrew S. Tanenbaum, Herbert Bos, e seu preço é R$161.22
+ 
+ 
+Pesquisa de Autor feita por Abraham
+ - Livro titulo Operating System Concepts, autor Abraham Silberschatz, Greg Gagne, Peter Baer Galvin, e seu preço é R$118.79
+ - Livro titulo Operating Systems Concepts with Java, autor Abraham Silberschatz, Greg Gagne, Peter Baer Galvin, e seu preço é R$160.32
+ 
+ 
+Pesquisa de Título feita por aa
+ 
+ 
+Pesquisa de Título feita por aaaaa
+ 
+ 
+Pesquisa de Título feita por Java
+ - Livro titulo Head First Java, 2nd Edition, autor Kathy Sierra, Bert Bates, e seu preço é R$24.83
+ - Livro titulo Java Illuminated: An Active Learning Approach, autor Julie Anderson, Herve Franceschi, e seu preço é R$152.36
+ - Livro titulo Java: How to Program, autor Paul Deitel and Harvey Deitel, e seu preço é R$70.34
+ - Livro titulo Operating Systems Concepts with Java, autor Abraham Silberschatz, Greg Gagne, Peter Baer Galvin, e seu preço é R$160.32
+ 
+ 
+Pesquisa de Título feita por Java
+ - Livro titulo Head First Java, 2nd Edition, autor Kathy Sierra, Bert Bates, e seu preço é R$24.83
+ - Livro titulo Java Illuminated: An Active Learning Approach, autor Julie Anderson, Herve Franceschi, e seu preço é R$152.36
+ - Livro titulo Java: How to Program, autor Paul Deitel and Harvey Deitel, e seu preço é R$70.34
+ - Livro titulo Operating Systems Concepts with Java, autor Abraham Silberschatz, Greg Gagne, Peter Baer Galvin, e seu preço é R$160.32
+ 
+ 
+Pesquisa de Título feita por sdfasdf
+ 
+ 
+Pesquisa de Título feita por java
+ 
+ 
+Pesquisa de Título feita por Java
+ - Livro titulo Head First Java, 2nd Edition, autor Kathy Sierra, Bert Bates, e seu preço é R$24.83
+ - Livro titulo Java Illuminated: An Active Learning Approach, autor Julie Anderson, Herve Franceschi, e seu preço é R$152.36
+ - Livro titulo Java: How to Program, autor Paul Deitel and Harvey Deitel, e seu preço é R$70.34
+ - Livro titulo Operating Systems Concepts with Java, autor Abraham Silberschatz, Greg Gagne, Peter Baer Galvin, e seu preço é R$160.32
+ 
+ 
+Pesquisa de Autor feita por 2342432
+ 
+ 
+Pesquisa de Autor feita por David
+ - Livro titulo Beginning iPhone Development with Swift: Exploring the iOS SDK, autor David Mark and Jack Nutting, e seu preço é R$32.07
+ - Livro titulo Computer Networks, autor Andrew S. Tanenbaum, David J. Wetherall, e seu preço é R$126.68
+ 
+ 
+Pesquisa de Título feita por Android
+ - Livro titulo Android App Development For Dummies, autor Michael Burton, e seu preço é R$22.43
+ - Livro titulo Advanced Android Application Development, autor Joseph Annuzzi Jr., Lauren Darcey, Shane Conder, e seu preço é R$29.87
+ 
+ 
+Pesquisa de Título feita por of
+ - Livro titulo Design Patterns: Elements of Reusable Object-Oriented Software, autor Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm, e seu preço é R$37.88
+ 
+ 
