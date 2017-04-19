@@ -1,0 +1,15 @@
+Swift for Beginners: Develop and Design;Boisy G. Pitre;28,51
+Beginning iPhone Development with Swift: Exploring the iOS SDK;David Mark and Jack Nutting;32,07
+Head First Java, 2nd Edition;Kathy Sierra, Bert Bates;24,83
+Java Illuminated: An Active Learning Approach;Julie Anderson, Herve Franceschi;152,36
+C: How to Program;Deitel;141,13
+C++: How to Program;Deitel;35,0
+Android App Development For Dummies;Michael Burton;22,43
+Java: How to Program;Paul Deitel and Harvey Deitel;70,34
+Advanced Android Application Development;Joseph Annuzzi Jr., Lauren Darcey, Shane Conder;29,87
+Learning SQL;Alan Beaulieu;26,78
+Design Patterns: Elements of Reusable Object-Oriented Software;Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm;37,88
+Operating System Concepts;Abraham Silberschatz, Greg Gagne, Peter Baer Galvin;118,79
+Operating Systems Concepts with Java;Abraham Silberschatz, Greg Gagne, Peter Baer Galvin;160,32
+Modern Operating Systems;Andrew S. Tanenbaum, Herbert Bos;161,22
+Computer Networks;Andrew S. Tanenbaum, David J. Wetherall;126,68
